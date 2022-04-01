@@ -1,0 +1,19 @@
+{
+  "name": "data-x",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "cp -av public dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acryptos/data-x.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acryptos/data-x/issues"
+  },
+  "homepage": "https://github.com/acryptos/data-x#readme"
+}
