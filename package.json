@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "cp -av public dist"
+    "build": "rm -rf dist && cp -av public dist"
   },
   "repository": {
     "type": "git",
